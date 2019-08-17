@@ -24,7 +24,7 @@ header {
 	max-width: 300px;
 }
 
-li {
+.menu li {
 	display: inline-block;
 	margin-right: 1.5em;
 }
