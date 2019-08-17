@@ -11,11 +11,19 @@ body {
 	color: #fff;
 }
 
-header {
+.top-header {
 	width: 100%;
+}
+
+header {
+	width: 50%;
+}
+
+.top-header, header {
 	background-color: #1f0f0f;
 	padding: 0.8em;
 	margin: 0.4em;
+	border-radius: 10px;
 }
 
 .logo {
