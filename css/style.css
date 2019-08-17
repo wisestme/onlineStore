@@ -24,6 +24,10 @@ header {
 	max-width: 300px;
 }
 
+nav ul {
+	list-style-type: none;
+}
+
 .menu li {
 	display: inline-block;
 	margin-right: 1.5em;
