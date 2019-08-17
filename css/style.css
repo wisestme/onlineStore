@@ -22,7 +22,7 @@ header {
 .top-header, header {
 	background-color: #1f0f0f;
 	padding: 0.8em;
-	margin: 0.4em;
+	margin: 0.4em auto;
 	border-radius: 10px;
 }
 
